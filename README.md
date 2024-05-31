@@ -2,6 +2,8 @@
 
 This project is a simple ToDo application built using the MERN stack (MongoDB, Express.js, React, Node.js). The application allows users to manage their tasks by adding new tasks, viewing the list of tasks, and deleting tasks from the MongoDB database.
 
+**Disclamier**: Make sure you install `npm libraries cors and multer` in the API directory and run `npm install` in frontend directory
+
 ## Features
 
 ### Functionality Overview
