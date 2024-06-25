@@ -4,6 +4,10 @@ This project is a simple ToDo application built using the MERN stack (MongoDB, E
 
 **Disclamier**: Make sure you install `npm libraries cors and multer` in the API directory and run `npm install` in frontend directory
 
+## Application Demonstration
+
+https://github.com/SathruwanCooray/Simple_To_Do_Application/assets/150252729/9922f6b2-cde3-4b87-99a7-01e7812ae75e
+
 ## Previews of the web application
 ![Adding note](https://imgur.com/7bQ8Nh7.png)
 ![Remove note](https://imgur.com/07saRTI.png)
